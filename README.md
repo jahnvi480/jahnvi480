@@ -3,9 +3,9 @@
 ## Welcome to my GitHub
 
 
-I am pursuing my <img src='images/graduation-cap.png' width=100%> B.E in I.T from TSEC, Mumbai.<br>
-I have created a few projects and have worked as Web Developer in 2 startup companies.<br>
-I am looking for opportunities to achieve my career goals and expanding my knowledge in the field of technology. 
+I am pursuing my <img src='images/graduate-cap.png'> B.E in Information Technology <img src='images/laptop.png'> from TSEC, Mumbai.<br>
+I have created a few projects <img src='images/idea.png'> and have worked as Web Developer <img src='images/web-link.png'> in 2 startup companies.<br>
+I am looking for opportunities to achieve my career goals <img src='images/target.png'> and expanding my knowledge in the field of technology. <img src='images/graduate-cap.png'> 
 
 Besides coding I love to dance, paint, cook and watch dog posts and memes on Instagram (YES! I love dogs, pandas and other animals too).
 
