@@ -3,7 +3,7 @@
 ## Welcome to my GitHub
 
 
-I am pursuing my B.E in I.T from TSEC, Mumbai.<br>
+I am pursuing my <img src='images/graduation-cap.png' width=100%> B.E in I.T from TSEC, Mumbai.<br>
 I have created a few projects and have worked as Web Developer in 2 startup companies.<br>
 I am looking for opportunities to achieve my career goals and expanding my knowledge in the field of technology. 
 
