@@ -1,28 +1,13 @@
 <img src='images/intro.jpeg' width=100%>
 
-## Welcome to my GitHub
+### Welcome to my GitHub
 
 
-I am pursuing my <img src='images/graduate-cap.png'> B.E in Information Technology <img src='images/laptop.png'> from TSEC, Mumbai.<br>
-I have created a few projects <img src='images/idea.png'> and have worked as Web Developer <img src='images/web-link.png'> in 2 startup companies.<br>
-I am looking for opportunities to achieve my career goals <img src='images/target.png'> and expanding my knowledge in the field of technology. <img src='images/graduate-cap.png'> 
+<img src='images/graduate-cap.png'> I am pursuing my B.E in Information Technology <img src='images/laptop.png'> from TSEC, Mumbai.<br><br>
+<img src='images/idea.png'> I have created a few projects and have worked as Web Developer <img src='images/web-link.png'> in 2 startup companies, and looking for opportunities to achieve my career goals <img src='images/target.png'> and expanding my knowledge in the field of technology. <img src='images/rating.png'> 
 
-Besides coding I love to dance, paint, cook and watch dog posts and memes on Instagram (YES! I love dogs, pandas and other animals too).
+### Connect with me
 
+<a href="https://www.linkedin.com/in/jahnvi07"><img src='images/linkedin.png'></a> <a href="mailto: jahnvithakkar2000@gmail.com"><img src='images/gmail.png'></a>
 
-
-
-<!--
-**jahnvi480/jahnvi480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jahnvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnvi480&show_icons=true&theme=radical)
