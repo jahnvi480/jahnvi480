@@ -1,13 +1,15 @@
 <img src='images/intro.jpeg' width=100%>
 
-### Welcome to my GitHub
+## Welcome to my GitHub
 
 
-<img src='images/graduate-cap.png'> I am pursuing my B.E in Information Technology <img src='images/laptop.png'> from TSEC, Mumbai.<br><br>
-<img src='images/idea.png'> I have created a few projects and have worked as Web Developer <img src='images/web-link.png'> in 2 startup companies, and looking for opportunities to achieve my career goals <img src='images/target.png'> and expanding my knowledge in the field of technology. <img src='images/rating.png'> 
+I’m an **SDE at Microsoft** on the Azure SQL Drivers team, building the next-gen open-source Python driver (**mssql-python**) — making database connections feel effortless and developer-friendly. 🚀  
+I dive into **DBAPI 2.0, Entra ID support, performance tuning, and cross-platform builds**. Before Microsoft, I was at Myntra, building full-stack solutions and winning hackathons 🏆 — learning to solve problems creatively (and quickly!).  
+When I’m not coding, you’ll find me **painting 🎨, sketching ✏️, or strumming my guitar 🎸**, because creativity never takes a day off.  
 
-### Connect with me
+### 🚀 My Open-Source Work
+- Contributing to [mssql-python](https://github.com/microsoft/mssql-python) – Python driver for SQL Server.
+
+### 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/jahnvi07"><img src='images/linkedin.png'></a> <a href="mailto: jahnvithakkar2000@gmail.com"><img src='images/gmail.png'></a>
-
-![Jahnvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahnvi480&show_icons=true&theme=radical)
